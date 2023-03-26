@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/carbonproject/static/css/main.9ab09c20.css",
+    "main.js": "/carbonproject/static/js/main.835be4c7.js",
+    "static/media/Login-background.png": "/carbonproject/static/media/Login-background.7604ce31f817a5c0163d.png",
+    "static/media/show.png": "/carbonproject/static/media/show.180932f866861728bd41.png",
+    "static/media/hidden.png": "/carbonproject/static/media/hidden.e6b916b83f3e0baed27f.png",
+    "index.html": "/carbonproject/index.html",
+    "main.9ab09c20.css.map": "/carbonproject/static/css/main.9ab09c20.css.map",
+    "main.835be4c7.js.map": "/carbonproject/static/js/main.835be4c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab09c20.css",
+    "static/js/main.835be4c7.js"
+  ]
+}
