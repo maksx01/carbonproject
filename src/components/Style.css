@@ -100,10 +100,10 @@ form {
   cursor: pointer;
   transition: all 0.2s ease;
   width: 300px;
+  background-color: white;
 }
 
-.login-button[type="submit"]:hover {
-  background-color: #eae7e7;
+.login-button:hover {
   box-shadow: 0px 0px 4px rgb(62, 155, 59); 
 }
 
@@ -173,10 +173,10 @@ form {
   cursor: pointer;
   transition: all 0.3s ease;
   width: 300px;
+  background-color: white;
 }
 
 .go-to-result-button:hover {
-  background-color: #eae7e7;
   box-shadow: 0px 0px 4px rgb(62, 155, 59); 
 }
 
@@ -221,10 +221,10 @@ form {
   width: 290px;
   height: 50px;
   margin-bottom: 20px;
+  background-color: white;
 }
 
 .result-content button:hover{
-  background-color: #eae7e7;
   box-shadow: 0px 0px 4px rgb(62, 155, 59); 
 }
 
